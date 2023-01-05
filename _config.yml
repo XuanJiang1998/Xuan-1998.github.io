@@ -82,7 +82,18 @@ analytics:
 author:
   name             : "Xuan Jiang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "
+Ph.D. Student | UC Berkeley
+
+CEE Department, Transportation Engineering
+
+Minor in Parallel Computing, AI, and Information based Active Transportation
+
+Advisor: Raja Sengupta @AIR LAB
+
+Member, Transportation Research Board: National Academies of Sciences, Engineering, and Medicine Standing Committee: Aviation Safety, Security and Emergency Management (AV090)
+Graduate Student Researcher, Lawrence Berkeley National Laboratory
+"
   location         : "Location"
   employer         :
   pubmed           : "PhD at UC Berkeley and GSRA at LBNL, expert in parallel computing and traffic operation simulation"
