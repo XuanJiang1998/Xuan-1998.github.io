@@ -14,7 +14,7 @@ I am currently a third year PhD at University of California, Berkeley majoring i
 
 
 
-Publications
+Papers
 ======
 - H. Yang, W. Zheng, J. Cai, P. Wang, **X. Jiang**, S. Du, Y. Wang* and Z. Wang., “Integrating the Traffic Science with Deep Leaning for City-wide Network Congestion Prediction (TRBAM-23-04536)." Accepted, Proceedings of the 102nd Annual Meeting of Transportation Research Board, Jan. **2023**. Washington D.C. USA.
 - **Jiang, X.**, Peng, X., Bulusu, V., Poliziani, C., Chatterji, G., & Sengupta, R. (2022, September). “*[A Metrics-based Method for Evaluating Corridors for Urban Air Mobility Operations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:iH-uZ7U-co4C)*”. In **2022** IEEE International Smart Cities Conference (ISC2) (pp. 1-7). IEEE. DOI:10.1109/ISC255366.2022.9922442
