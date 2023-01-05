@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuan Jiang/ Homepage"
+title                    : "Xuan Jiang"
 title_separator          : "-"
 name                     : &name "Xuan Jiang"
 description              : &description "PhD @ UCB, GSRA @ LBNL"
