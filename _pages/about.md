@@ -37,7 +37,7 @@ Publications
 - **Haoze He**, Dube Parijat, "*[Accelerating Parallel Stochastic Gradient Descent via Non-blocking Mini-batches](https://arxiv.org/abs/2211.00889)*",  Conference on Machine Learning and Systems (MLSys), Submitted, Oct.2022
 - **Haoze He**, Dube Parijat “*[RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via  Submodular Partitioning](https://arxiv.org/abs/2211.00839)*”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Submitted, Oct.2022
 - Chaoxun Guo, Zhixing Jiang, **Haoze He**, David Zhang, “*[Pulse Signal Acquisition and Analysis for Disease  Diagnosis: A review](https://www.sciencedirect.com/science/article/pii/S0010482522001044)*”, Computers in Biology and Medicine, Accepted, Nov. 2021
-- **Jiang, X.**, Peng, X., Bulusu, V., Poliziani, C., Chatterji, G., \& Sengupta, R. (2022, September). A Metrics-based Method for Evaluating Corridors for Urban Air Mobility Operations. In \textbf{2022} IEEE International Smart Cities Conference (ISC2) (pp. 1-7). IEEE. \textcolor{gray}{[Conference paper]}  DOI: \href{10.1109/ISC255366.2022.9922442}{10.1109/ISC255366.2022.9922442}
+- **Jiang, X.**, Peng, X., Bulusu, V., Poliziani, C., Chatterji, G., & Sengupta, R. (2022, September). “*[A Metrics-based Method for Evaluating Corridors for Urban Air Mobility Operations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:iH-uZ7U-co4C)*”. In **2022** IEEE International Smart Cities Conference (ISC2) (pp. 1-7). IEEE. DOI:10.1109/ISC255366.2022.9922442
 
 
 
