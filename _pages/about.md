@@ -11,7 +11,20 @@ redirect_from:
 I am currently a third year PhD at University of California, Berkeley majoring in Transportation Engineering. I am working with Prof. [Raja Sengupta](https://ce.berkeley.edu/people/faculty/sengupta), Prof. [‪Daniel Rodríguez](https://ced.berkeley.edu/people/daniel-rodriguez), and Prof. [‪James Demmel‬‬](https://www2.eecs.berkeley.edu/Faculty/Homepages/demmel.html). Previously, I received my Master degree in Transpor Engineering from University of California, Berkeley advised by Prof. [Mark Hansen](https://ce.berkeley.edu/people/faculty/hansen), Prof. [Susan Shaheen](https://ce.berkeley.edu/people/faculty/shaheen), Prof. [Joan Walker](https://ce.berkeley.edu/people/faculty/walker), and Prof. [Alexander Skabardonis](https://ce.berkeley.edu/people/faculty/skabardonis). My research interests are parallel computation/ traffic operation simulation/ urban air mobility. Currently, My research mainly focuses on accelerating the convergence/simulation speed of metropolitan scale transportation systems using novel system schemes and machine learning methods. I will graduate from UCB in December 2024 and intend to apply for faculty position. 
 
 
-
+Education
+======
+- PhD in Transportation Engineering at at UC Berkeley, present
+  - GPA: 4.0/4.0
+  - Statistical Learning Theory 
+  - Applied Stochastic Process
+  - Applied Natural Language Processing
+  - Applications of Parallel Computers
+  - Back-End Web Architecture
+- M.S. in Transportation Engineering at UC Berkeley, 2021
+  - GPA: 4.0/4.0
+  - Operation of Transportation Facilities (A+)
+  - Systems Analysis in Transportation (A+)
+  - Data Science for Smart Cities (A+)
 
 
 Papers
@@ -30,28 +43,6 @@ Papers
 - Bauranov, A., Parks, S., **Jiang, X.**, Rakas, J., González, M. C. (**2021**). “*[Quantifying the Resilience of the US Domestic Aviation Network During the COVID-19 Pandemic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:qUcmZB5y_30C)*”. Frontiers in Built Environment, 7, 642295.  DOI:10.3389/fbuil.2021.642295
 - Chai, C., Lu, J., **Jiang, X.**, Shi, X., Zeng, Z. (**2021**). “*[An automated machine learning (automl) method for driving distraction detection based on lane-keeping performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:-f6ydRqryjwC)*”. arXiv preprint arXiv:2103.08311. DOI:10.48550/arXiv.2103.08311
 - Huang, W., Yan, C., **Jiang, X.** (**2019**). “*[Chemical and rheology evaluation on the field short-term aging of high content polymer modified asphalt (No. 19-00486)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:hC7cP41nSMkC)*”.
-
-
-
-
-
-
-Education
-======
-- PhD in Transportation Engineering at at UC Berkeley, present
-  - GPA: 4.0/4.0
-  - Statistical Learning Theory 
-  - Applied Stochastic Process
-  - Applied Natural Language Processing
-  - Applications of Parallel Computers
-  - Back-End Web Architecture
-- M.S. in Transportation Engineering at UC Berkeley, 2021
-  - GPA: 4.0/4.0
-  - Operation of Transportation Facilities (A+)
-  - Systems Analysis in Transportation (A+)
-  - Data Science for Smart Cities (A+)
-
-
 
 
 Teaching
