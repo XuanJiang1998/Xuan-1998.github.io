@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "BIO"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a second-year master's student at New York University majoring in Computer Engineering. I am working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska) and Prof. [‪Parijat Dube‬‬](https://scholar.google.com/citations?user=bOejjQUAAAAJ&hl=en). Previously, I received my B.S. in Computer Science and Engineering from The Chinese University of Hong Kong(CUHK) advised by Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ) and [Prof. Rui Huang](https://scholar.google.com/citations?user=t8UduWwAAAAJ&hl=zh-CN&oi=ao). My research interests are distributed machine learning/ applied machine learning/ federated machine learning. Currently, My research mainly focuses on accelerating the convergence speed of distributed machine learning systems using novel system schemes and machine learning methods. I will graduate from NYU in May 2023 and intend to apply for Ph.D. ECE/CS programs. 
 
-A data-driven personal website
+
+
+
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- 1-2023: I will work as a teaching assistant for NYU-GY-9343 Data Structure and Algorithm in the 2023 Spring semester.
+- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
+- 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
+- 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+- 09-2022: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
+- 05-2022: I started working with Prof. [Parijat Dube](https://www.linkedin.com/in/parijatdube/). He is an adjunct professor at New York University and Columbia University, and a researcher at IBM. Our research focuses on distributed machine learning systems. 
+- 11-2021: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
+- 10-2020: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), researching  applied machine learning for health care.
 
-Getting started
+
+
+
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Haoze He**, Anna Choromanska, “*Local Leader Decentralized Stochastic Gradient Descent*”, International  Conference on Machine Learning (ICML), to be submitted, Nov.2022. [[code](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)]
+- **Haoze He**, Dube Parijat, "*[Accelerating Parallel Stochastic Gradient Descent via Non-blocking Mini-batches](https://arxiv.org/abs/2211.00889)*",  Conference on Machine Learning and Systems (MLSys), Submitted, Oct.2022
+- **Haoze He**, Dube Parijat “*[RCD-SGD: Resource-Constrained Distributed SGD in Heterogeneous Environment via  Submodular Partitioning](https://arxiv.org/abs/2211.00839)*”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Submitted, Oct.2022
+- Chaoxun Guo, Zhixing Jiang, **Haoze He**, David Zhang, “*[Pulse Signal Acquisition and Analysis for Disease  Diagnosis: A review](https://www.sciencedirect.com/science/article/pii/S0010482522001044)*”, Computers in Biology and Medicine, Accepted, Nov. 2021
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Education
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- M.S. in Computer Engineering at New York University, 2020
+  - Current GPA (After 2022 Fall semester): 3.917/4.0, Rank: top3%
+- B.S. in Computer Science and Engineering at The Chinese University of Hong Kong, 2020
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Teaching
+======
+
+- 2023 Spring: Teaching assistant for NYU-GY-9343 Data Structure and Algorithm.
+
+
+
+Open-Source
+======
+
+- Built an **open-source/general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD)** for anyone interested in distributed machine learning. Using this framework, you can implement any centralized/ decentralized, synchronous/ asynchronous distributed SGD algorithms when models fit into a single machine. In addition, this framework provides you a continent way to fulfill any network topology for decentralized SGD.
+- Build an **open-source [website](https://github.com/HectorHHZ/NYU-Course-Schedule)** for NYU EECS/DS community and help **150+** NYU students **each semester**. This website summary the open-source courses in NYU EECS/DS, provide links and repositories for each course, list the workload, and provide course experiences for reference. Anyone from the NYU community is welcome to fork and contribute!
