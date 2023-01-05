@@ -14,22 +14,6 @@ I am currently a third year PhD at University of California, Berkeley majoring i
 
 
 
-News
-======
-
-- 1-2023: I will work as a teaching assistant for NYU-GY-9343 Data Structure and Algorithm in the 2023 Spring semester.
-- 11- 2022: Open-source a  general [framework](https://github.com/HectorHHZ/Adjacent_Leader_Dencentralized_SGD) to implement any (de)centralized, (a)synchronous distributed SGD algorithms when models fit into a single machine. The paper, which proposes a novel distributed SGD algorithm, will be submitted to International Conference on Machine Learning (ICML). 
-- 10-2022: [One paper](https://arxiv.org/abs/2211.00889) submitted to Conference on Machine Learning and Systems (MLSys).
-- 10-2022: [One paper](https://arxiv.org/abs/2211.00839) submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
-- 09-2022: I started working with Prof. [Anna Choromanska](https://engineering.nyu.edu/faculty/anna-choromanska). Our research focuses on novel optimizers for decentralized distributed machine learning systems.
-- 05-2022: I started working with Prof. [Parijat Dube](https://www.linkedin.com/in/parijatdube/). He is an adjunct professor at New York University and Columbia University, and a researcher at IBM. Our research focuses on distributed machine learning systems. 
-- 11-2021: [One paper](https://www.sciencedirect.com/science/article/pii/S0010482522001044) submitted and accepted by Computers in Biology and Medicine.
-- 10-2020: I started working with Prof. [‪David Zhang, Dapeng‬‬](https://scholar.google.com/citations?hl=zh-CN&user=IOagLnEAAAAJ), researching  applied machine learning for health care.
-
-
-
-
-
 Publications
 ======
 
