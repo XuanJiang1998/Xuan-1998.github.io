@@ -18,7 +18,7 @@ Publications
 ======
 - **Jiang, X.**, Peng, X., Bulusu, V., Poliziani, C., Chatterji, G., & Sengupta, R. (2022, September). “*[A Metrics-based Method for Evaluating Corridors for Urban Air Mobility Operations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:iH-uZ7U-co4C)*”. In **2022** IEEE International Smart Cities Conference (ISC2) (pp. 1-7). IEEE. DOI:10.1109/ISC255366.2022.9922442
 - **Jiang, X.**, Song, L. (**2022**). “*[Incompressible Fluid Simulation Parallelization with openMP and CUDA](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:4JMBOYKVnBMC)*”. DOI:10.31219/osf.io/aj3wt
-- **Jiang, X.**. (2022). “*[Optimizing Matrix Multiplication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:RHpTSmoSYBkC)*”. DOI:10.31219/osf.io/dfpgq
+- **Jiang, X.**. (**2022**). “*[Optimizing Matrix Multiplication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:RHpTSmoSYBkC)*”. DOI:10.31219/osf.io/dfpgq
 - Chen, A., Park, B., **Jiang, X.**. (**2022**). “*[Parallelizing a Particle Simulation on Nersc's High Performance Computer Cori](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:_Qo2XoVZTnwC)*”. DOI:10.31219/osf.io/xmtbk
 - Pham, H., **Jiang, X.**, Zhang, C. (**2022**). “*[Causality and Advanced Models in Trip Mode Prediction: Interest in Choosing Swissmetro](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:e5wmG9Sq2KIC)*”. DOI:10.31219/osf.io/m4w38
 - **Jiang, X.**, Peng, X., Bulusu, V., Poliziani, C., Chatterji, G., Sengupta, R. (**2022**). “*[Air Corridor Evaluation with Purpose-specific Metrics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:j3f4tGmQtD8C)*”. DOI:10.31219/osf.io/fqu3k
@@ -26,6 +26,13 @@ Publications
 - Bauranov, A., Parks, S., **Jiang, X.**, Rakas, J., González, M. C. (**2021**). “*[Quantifying the Resilience of the US Domestic Aviation Network During the COVID-19 Pandemic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:qUcmZB5y_30C)*”. Frontiers in Built Environment, 7, 642295.  DOI:10.3389/fbuil.2021.642295
 - Chai, C., Lu, J., **Jiang, X.**, Shi, X., Zeng, Z. (**2021**). “*[An automated machine learning (automl) method for driving distraction detection based on lane-keeping performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:-f6ydRqryjwC)*”. arXiv preprint arXiv:2103.08311. DOI:10.48550/arXiv.2103.08311
 - Huang, W., Yan, C., **Jiang, X.** (**2019**). “*[Chemical and rheology evaluation on the field short-term aging of high content polymer modified asphalt (No. 19-00486)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YiUWYl0AAAAJ&citation_for_view=YiUWYl0AAAAJ:hC7cP41nSMkC)*”.
+- H*. Yang, W. Zheng, J. Cai, P. Wang, **X. Jiang**, S. Du, Y. Wang* and Z. Wang. “Spatial-temporal Physical Priori Transformer: A Universal Framework for City-wide Traffic Learning and Forecasting." Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence on Sep 2022, under review.
+- H. Yang, **X. Jiang**, Y. Zhuang, M. Tsai., and Y. Wang*. “Enhancing-Minority Vehicle Classification System Empowered by Micro-Pulse LiDAR and Edge Artificial Intelligence." Submitted to IEEE Transactions on Intelligent Transportation Systems on Nov 2021, accept with minor revision on Oct 2022.
+- H. Yang, W. Zheng, J. Cai, P. Wang, **X. Jiang**, S. Du, Y. Wang* and Z. Wang., “Integrating the Traffic Science with Deep Leaning for City-wide Network Congestion Prediction (TRBAM-23-04536)." Accepted, Proceedings of the 102nd Annual Meeting of Transportation Research Board, Jan. 2023. Washington D.C. USA.
+- **X. Jiang**, H. Yang and Y. Wang*. “Making Sense of Electrical Vehicle Discussions Using Sentiment Analysis on Closely Related News and User Comments." Proceedings of 2022 International Conference on Transportation and Development (ICTD), American Society of Civil Engineers (ASCE)
+
+
+
 
 
 
